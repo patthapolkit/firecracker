@@ -1,0 +1,25 @@
+# Ignore Python bytecode files
+.venv
+*.pyc
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore compiled C files
+*.o
+*.out
+*.exe
+
+# Ignore results directories
+old_fibo_results/
+results_c/
+results_python/
+
+# Ignore shell script output
+results.txt
+plt*.png
+*.tar.gz
