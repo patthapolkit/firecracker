@@ -16,8 +16,7 @@ __pycache__/
 
 # Ignore results directories
 old_fibo_results/
-results_c/
-results_python/
+results*/
 
 # Ignore shell script output
 results.txt
